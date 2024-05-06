@@ -1,6 +1,8 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
+# DATE: 21.02.24
+# NAME: Bharathi priyan T
+# REGISTER NUMBER: 212221040028
 # AIM:
-
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM:
 
